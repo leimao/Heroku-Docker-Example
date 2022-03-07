@@ -1,6 +1,6 @@
 # Cloud Run Hello World Sample
 
-This sample is based on the Google Cloud Run [hello-world example](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/7b58dc21f4cfa5042cb0c65884339542746f7b88/run/helloworld). With minimum modification, the sample app could be deployed on Heroku. More specifically, only one additional `heroku.yml` is required.
+This sample is based on the [Google Cloud Run](https://cloud.google.com/run) [hello-world example](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/7b58dc21f4cfa5042cb0c65884339542746f7b88/run/helloworld). With minimum modification, the sample app could be deployed on [Heroku](https://www.heroku.com/). More specifically, only one additional [`heroku.yml`](heroku.yml) file is required.
 
 ## Create Heroku App
 
