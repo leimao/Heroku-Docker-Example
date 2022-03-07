@@ -33,5 +33,10 @@ Commit your code to the repository and deploy it to Heroku using Git.
 ```
 $ git add .
 $ git commit -am "make it better"
+$ heroku stack:set container
 $ git push heroku main
 ```
+
+## View Heroku App
+
+View the Heroku App at [https://hello-underworld.herokuapp.com/](https://hello-underworld.herokuapp.com/).
